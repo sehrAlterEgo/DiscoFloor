@@ -1,5 +1,12 @@
 ﻿R e a d m e
 -----------
 
-In this file you can include any instructions or other comments you want to have injected onto the 
-top of your final script. You can safely delete this file if you do not want any such comments.
+How To:
+
+* Add the word Disco to the name of the lcds you want affected
+* load the script
+* Disco!
+
+if you want to change the number of squares per row go into the programmable block's properties, type a number in the argument list and hit run.
+
+It assumes a square LCD, so it'll probably look a bit weird on the wide ones, but who am I to stop you from partying however you want to?!
